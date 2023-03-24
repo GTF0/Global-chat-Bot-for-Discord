@@ -31,7 +31,7 @@ The bot includes commands for displaying the rules and information about the glo
 
 The bot includes a command for displaying statistics related to global chat usage in a server.
 
-## Usage
+
 
 ## Usage
 To use the bot, you must have a Discord server and have the necessary permissions to add a bot to your server.
